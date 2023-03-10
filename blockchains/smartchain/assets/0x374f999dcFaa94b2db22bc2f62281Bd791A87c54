@@ -1,0 +1,31 @@
+"name": "Women Health Action",
+    "website": "https://www.womenhealthaction.com",
+    "description": "is the first community in the world to have a Women’s Health Plan, which outlines ambitious improvement and change in areas including menopause, heart health, menstrual health including endometriosis, and sexual health.",
+    "explorer": "https://bscscan.com/token/0x374f999dcfaa94b2db22bc2f62281bd791a87c54",
+    "research": "-",
+    "symbol": "WHA",
+    "type": "token",
+    "decimals": 18,
+    "status": "active",
+    "tags": [
+        "staking-native"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/WomenHealthAction/WHAorganization/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/whaorganisation"
+        },
+        {
+            "name": "linkedin",
+            "url": "https://www.linkedin.com/company/womenhealthaction/"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://womenhealthaction.com/wp-content/uploads/2023/03/Women-Health-Action-Whitepaper-v1.pdf"
+        }
+    ]
+}
